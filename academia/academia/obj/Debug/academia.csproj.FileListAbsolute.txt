@@ -1,0 +1,16 @@
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\academia.exe.config
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\academia.exe
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\academia.pdb
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\FontAwesome.WPF.dll
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\RegraNegocio.dll
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\DadosAcesso.dll
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\RegraNegocio.pdb
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\FontAwesome.WPF.xml
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\bin\Debug\DadosAcesso.pdb
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.csprojResolveAssemblyReference.cache
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.FrmAcademia.resources
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.frmCliente.resources
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.Properties.Resources.resources
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.csproj.GenerateResource.Cache
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.exe
+C:\Users\willamy\documents\visual studio 2013\Projects\academia\academia\obj\Debug\academia.pdb
